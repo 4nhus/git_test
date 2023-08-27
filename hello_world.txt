@@ -1,1 +1,3 @@
 Hi!
+
+Practicing git commits.
